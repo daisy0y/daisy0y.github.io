@@ -4,7 +4,7 @@
       "title" : "호아스파워시 샴푸바 for DOG",
       "content" : "샴푸바",
       "price" : "23,000",
-      "url" : "../3.jpg"
+      "url" : "https://daisy0y.github.io/images/3.jpg"
       
     },
   
@@ -13,7 +13,7 @@
       "title" : "스틸아트 펫드라이룸 펫크린",
       "content" : "펫드라이룸",
       "price" : "57,330",
-      "url" : "../4.jpg"
+      "url" : "https://daisy0y.github.io/images/4.jpg"
     },
   
     {
@@ -21,14 +21,14 @@
       "title" : "라텍스 강아지 애견방석 쿠션 51x59cm",
       "content" : "애견방석",
       "price" : "39,000",
-      "url" : "../5.jpg"
+      "url" : "https://daisy0y.github.io/images/5.jpg"
     },
     {
       "id" : 6,
       "title" : "P-100 애견 미용기 강아지 이발기 반려동물 셀프미용",
       "content" : "애견 이발기",
       "price" : "24,800",
-      "url" : "../6.jpg"
+      "url" : "https://daisy0y.github.io/images/6.jpg"
       
     },
   
@@ -37,7 +37,7 @@
       "title" : "On.Cat 원목 반려동물 레옹 2구 식기/ 높이 조절",
       "content" : "식기",
       "price" : "19,900",
-      "url" : "../7.jpg"
+      "url" : "https://daisy0y.github.io/images/7.jpg"
     },
   
     {
@@ -45,6 +45,6 @@
       "title" : "ABKO(앱코)_오엘라 저소음 흡입식 애견이발기",
       "content" : "애견 이발기",
       "price" : "26,500",
-      "url" : "../8.jpg"
+      "url" : "https://daisy0y.github.io/images/8.jpg"
     }
   ] 
